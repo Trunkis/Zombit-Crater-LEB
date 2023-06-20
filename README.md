@@ -13,7 +13,7 @@ If you dont know what Adford is. Adford is a Playstation group that is unhinged 
 ![Screenshot (164)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/efd0277a-3eab-42d8-821e-97c1e7833b2b)
 ![Screenshot (165)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/e032456b-7f3b-455a-be7e-5e0b859c3dec)
 
-# The screenshots above were of the Zombie Survival Minigame in action at the elon musk world. now look at these screenshots:
+# The screenshots above were of the Zombie Survival Minigame in action at "the elon musk world" Now look at these screenshots:
 
 ## Large+ Spawn
 ![Screenshot (156)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/367c8224-6fb3-4640-b807-7f1611a45653)
