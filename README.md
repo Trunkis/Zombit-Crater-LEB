@@ -8,7 +8,7 @@ If you dont know what Adford is. Adford is a Playstation group that is unhinged 
 ### Zombit Crater's map scale is way bigger than Zombie Maze as seen in these screenshots:
 
 ![Screenshot (161)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/a09196ed-c35d-4bf0-a682-1f28b078c5e4)
-![Screenshot (164)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/bb74354f-082b-4b1a-b129-5bd7225f647b)
+![Screenshot (163)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/68b0b0f5-ef99-4841-89f7-8a2a2824e188)
 ![Screenshot (164)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/efd0277a-3eab-42d8-821e-97c1e7833b2b)
 ![Screenshot (165)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/e032456b-7f3b-455a-be7e-5e0b859c3dec)
 
@@ -31,5 +31,4 @@ If you dont know what Adford is. Adford is a Playstation group that is unhinged 
 ![Screenshot (146)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/bef45799-7055-4330-97f9-a9320c38b97e)
 # Credits:
 ![Screenshot (144)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/451acf49-e1fa-4a93-a9d0-20e997a0897f)
-
 
