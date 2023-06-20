@@ -1,0 +1,17 @@
+{
+    "name": "Zombit Crater",
+    "description": "At the top of a random summit crater somewhere in the Adford world. The undead rises rarley at night but when it's deadly when it does. Map inspired by my Zombie Survival Minecraft map.",
+    "authors": "Icement, AC07YT and cody5325",
+    "version": "1",
+    "id": "zummitcraterzs",
+    "type": "map",
+    "pack": "vanilla",
+    "hassmall": true,
+    "haslarge": true,
+    "haslargeplus": true,
+    "hasremastered": false,
+    "centercoords_small": "-179 20 -43",
+    "centercoords_large": "-179 20 -43",
+    "centercoords_largeplus": "-179 20 -43",
+    "centercoords_remastered": "0 0 0"
+}
