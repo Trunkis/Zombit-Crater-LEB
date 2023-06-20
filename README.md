@@ -5,6 +5,7 @@ If you dont know what Adford is. Adford is a Playstation group that is unhinged 
 
 ## What was this Zombie Survival?
 ### My Zombie Survival Minigame was in Adford and the world name in spefcic was "this is elon musk" That world was a absolute tragedy thinking about it.
+## Zombie Survival also used command blocks but had to have manunal input for the game to play.
 ### Zombit Crater's map scale is way bigger than Zombie Maze as seen in these screenshots:
 
 ![Screenshot (161)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/a09196ed-c35d-4bf0-a682-1f28b078c5e4)
