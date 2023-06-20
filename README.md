@@ -5,6 +5,11 @@ If you dont know what Adford is. Adford is a Playstation group that is unhinged 
 
 ## What was this Zombie Survival?
 ### My Zombie Survival Minigame was in Adford and the world name in spefcic was "this is elon musk" That world was a absolute tragedy thinking about it.
+
+# The lore of Zombie Survival
+## In the world of Adford. Only 1 reigion of Adford is infested and thats "the elon musk world" while reigons like Adford 1.0, Adford 2.0, Adford 3.0, Adford Rashford, No Man's Land, Adford Survival, Adford Castle, and much more are safe.
+## How the infestation started was back when in "the elon musk world" A portal tore open in the "Fishes Stripping Club" The most unexpected place a portal would open in. Since then, stronger and stronger mobs would start infesting the reigon hiding in day, hunting in night.
+
 ## Zombie Survival also used command blocks but had to have manunal input for the game to play.
 ### Zombit Crater's map scale is way bigger than Zombie Maze as seen in these screenshots:
 
