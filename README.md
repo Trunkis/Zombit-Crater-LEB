@@ -39,3 +39,6 @@
 # Credits:
 ![Screenshot (144)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/451acf49-e1fa-4a93-a9d0-20e997a0897f)
 
+Total Playtime spent on world:
+around 3 days spent
+(Exact time cant be given because the statistics file was deleted.)
