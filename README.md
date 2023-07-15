@@ -1,25 +1,23 @@
 # Zombit-Crater-LEB
 
 #### Started as a Zombie Survival map for my Zombie Survival 2.0 in Minecraft for Adford but soon became a LEB map.
-#### If you dont know what Adford is. Adford is a Playstation group that is unhinged and offensive at times. This map also contains some secrets.
+#### If you dont know what Adford is. Adford is a Playstation group thats also a friend group where mess happens. This map also contains some secrets.
 
 ## What was this Zombie Survival?
 ### My Zombie Survival Minigame was in Adford and the world name in spefcic was "this is elon musk" That world was a absolute tragedy thinking about it.
 
-# The lore of Zombie Survival
-## In the world of Adford. Only 1 reigion of Adford is infested and thats "the elon musk world" while reigons like Adford 1.0, Adford 2.0, Adford 3.0, Adford Rashford, No Man's Land, Adford Survival, Adford Castle, and much more are safe.
-## How the infestation started was back when in "the elon musk world" A portal tore open in the "Fishes Stripping Club" The most unexpected place a portal would open in. Since then, stronger and stronger mobs would start infesting the reigon hiding in day, hunting in night. Nowadays it's contained in a minigame called Zombie Survival by jaydent2015 but mobs can escape sometimes, most eradicated but some lurk to this day.
-# Rumor has it that Rashford is slowly succumbing to the once same fate of "the elon musk world"
+# There is lore of Zombie Survival
+### You gotta ask me about it.
 
-## Zombie Survival also used command blocks but had to have manunal input for the game to play.
-### Zombit Crater's map scale is way bigger than Zombie Maze as seen in these screenshots:
+## Zombie Survival also used command blocks but it was way less advanced and had to have someone known as the "Game Master" putting in manunal input for the game to play out.
+# The pictures below is the Zombie Maze, a map for ZS1 and its tiny compared to what Zombit Crater is:
 
 ![Screenshot (161)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/a09196ed-c35d-4bf0-a682-1f28b078c5e4)
 ![Screenshot (163)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/68b0b0f5-ef99-4841-89f7-8a2a2824e188)
 ![Screenshot (164)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/efd0277a-3eab-42d8-821e-97c1e7833b2b)
 ![Screenshot (165)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/e032456b-7f3b-455a-be7e-5e0b859c3dec)
 
-# The screenshots above were of the Zombie Survival Minigame in action at "the elon musk world" Now look at these screenshots:
+# The screenshots above were of the Zombie Survival Minigame in action at "the elon musk world" Now here is Zombit Crater:
 
 ## Large+ Spawn
 ![Screenshot (156)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/367c8224-6fb3-4640-b807-7f1611a45653)
