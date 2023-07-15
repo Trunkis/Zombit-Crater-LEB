@@ -10,7 +10,7 @@
 ### You gotta ask me about it.
 
 ## Zombie Survival also used command blocks but it was way less advanced and had to have someone known as the "Game Master" putting in manunal input for the game to play out.
-# The pictures below is the Zombie Maze, a map for ZS1 and its tiny compared to what Zombit Crater is:
+# The pictures below is the Zombie Maze, a map for ZS1 and it's tiny compared to what Zombit Crater is:
 
 ![Screenshot (161)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/a09196ed-c35d-4bf0-a682-1f28b078c5e4)
 ![Screenshot (163)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/68b0b0f5-ef99-4841-89f7-8a2a2824e188)
