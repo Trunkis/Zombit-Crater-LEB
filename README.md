@@ -1,5 +1,5 @@
 # Zombit Crater
-## At the top of a random summit crater somewhere in the Adford world. The undead rises rarley at night but when it's deadly when it does.
+## At a random summit crater in Adford. The mysterious undead rises to claim its next victims.
 
 # MAP INSPIRATION
 ### This map was inspired by my other map I made for my Zombie Survival 1 minigame on bedrock edition. This is a new original map thats better in every way compared to the Zombie Maze map. 
