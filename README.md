@@ -2,12 +2,18 @@
 ## At the top of a random summit crater somewhere in the Adford world. The undead rises rarley at night but when it's deadly when it does.
 
 # MAP INSPIRATION
-## This map was inspired by my other map I made for my Zombie Survival 1 minigame on bedrock edition. This is a new original map thats better in every way compared to the Zombie Maze map. 
+### This map was inspired by my other map I made for my Zombie Survival 1 minigame on bedrock edition. This is a new original map thats better in every way compared to the Zombie Maze map. 
+
+# MAP FEATURES
+### - Support for Small, Large and Large+
+### - Some Secrets, Credits Room and a Music Disc Room
+### - Small waterfall and a Showdown area
+### - Optimized in file size (Trimmmed and removed the ground layer.)
 
 # CREDITS | MOST CONTRIBUTED TO LEAST CONTRIBUTED
-## Icement - Project Leader, Lead Builder, Decorator and Optimizer
-## NorthSideYT/AC07YT (Alf-Coe) - Major Builder and Decorator
-## cody5325 - Builder and Decorator
+### Icement - Project Leader, Lead Builder, Decorator and Optimizer
+### NorthSideYT/AC07YT (Alf-Coe) - Major Builder and Decorator
+### cody5325 - Builder and Decorator
 
 # ZOMBIE MAZE SCREENSHOTS [ACTUAL SCREENSHOTS ARE BELOW THESE SEQUENCE OF SHOTS]
 ### The pictures below is the Zombie Maze, a map for my ZS1 minigame and it's tiny compared to what Zombit Crater is:
@@ -19,17 +25,17 @@
 
 # SCREENSHOTS
 
-## Large+ Spawn
+### Large+ Spawn
 ![Screenshot (156)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/367c8224-6fb3-4640-b807-7f1611a45653)
-## Large Spawn
+### Large Spawn
 ![Screenshot (158)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/f0744f5c-0a82-4f1b-97d2-a6b7691d9531)
-## Small Spawn
+### Small Spawn
 ![Screenshot (160)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/a5d22b21-670a-4417-b999-b6cbc1385ced)
-## Does anyone see a face in the walls?
+### Does anyone see a face in the walls?
 ![Screenshot (150)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/aa4166c8-b1c0-4c26-921d-a32761d2457a)
-## Getting to this place is possible. You just need to find the right route... or the SWAG route
+### Getting to this place is possible. You just need to find the right route... or the SWAG route
 ![Screenshot (148)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/46689050-81a9-4e2b-bc93-27cfc5592a07)
-## Zombit Crater from a sky view
+### Zombit Crater from a sky view
 ![Screenshot (166)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/1b16877c-15bb-42ce-a87a-a4a37aa108c2)
-## View from down here
+### View from down here
 ![Screenshot (146)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/bef45799-7055-4330-97f9-a9320c38b97e)
