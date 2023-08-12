@@ -1,23 +1,23 @@
-# Zombit-Crater-LEB
+# Zombit Crater
+## At the top of a random summit crater somewhere in the Adford world. The undead rises rarley at night but when it's deadly when it does.
 
-#### Started as a Zombie Survival map for my Zombie Survival 2.0 in Minecraft for Adford but soon became a LEB map.
-#### If you dont know what Adford is. Adford is a Playstation group thats also a friend group where mess happens. This map also contains some secrets.
+# MAP INSPIRATION
+## This map was inspired by my other map I made for my Zombie Survival 1 minigame on bedrock edition. This is a new original map thats better in every way compared to the Zombie Maze map. 
 
-## What was this Zombie Survival?
-### My Zombie Survival Minigame was in Adford and the world name in spefcic was "this is elon musk" That world was a absolute tragedy thinking about it.
+# CREDITS | MOST CONTRIBUTED TO LEAST CONTRIBUTED
+## Icement - Project Leader, Lead Builder, Decorator and Optimizer
+## NorthSideYT/AC07YT (Alf-Coe) - Major Builder and Decorator
+## cody5325 - Builder and Decorator
 
-# There is lore of Zombie Survival
-### You gotta ask me about it.
-
-## Zombie Survival also used command blocks but it was way less advanced and had to have someone known as the "Game Master" putting in manunal input for the game to play out.
-# The pictures below is the Zombie Maze, a map for ZS1 and it's tiny compared to what Zombit Crater is:
+# ZOMBIE MAZE SCREENSHOTS [ACTUAL SCREENSHOTS ARE BELOW THESE SEQUENCE OF SHOTS]
+### The pictures below is the Zombie Maze, a map for my ZS1 minigame and it's tiny compared to what Zombit Crater is:
 
 ![Screenshot (161)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/a09196ed-c35d-4bf0-a682-1f28b078c5e4)
 ![Screenshot (163)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/68b0b0f5-ef99-4841-89f7-8a2a2824e188)
 ![Screenshot (164)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/efd0277a-3eab-42d8-821e-97c1e7833b2b)
 ![Screenshot (165)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/e032456b-7f3b-455a-be7e-5e0b859c3dec)
 
-# The screenshots above were of the Zombie Survival Minigame in action at "the elon musk world" Now here is Zombit Crater:
+# SCREENSHOTS
 
 ## Large+ Spawn
 ![Screenshot (156)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/367c8224-6fb3-4640-b807-7f1611a45653)
@@ -27,16 +27,9 @@
 ![Screenshot (160)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/a5d22b21-670a-4417-b999-b6cbc1385ced)
 ## Does anyone see a face in the walls?
 ![Screenshot (150)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/aa4166c8-b1c0-4c26-921d-a32761d2457a)
-## Getting to this place is possible. You just need to find the right route... or the
-# SWAG route
+## Getting to this place is possible. You just need to find the right route... or the SWAG route
 ![Screenshot (148)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/46689050-81a9-4e2b-bc93-27cfc5592a07)
 ## Zombit Crater from a sky view
 ![Screenshot (166)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/1b16877c-15bb-42ce-a87a-a4a37aa108c2)
 ## View from down here
 ![Screenshot (146)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/bef45799-7055-4330-97f9-a9320c38b97e)
-# Credits:
-![Screenshot (144)](https://github.com/Trunkis/Zombit-Crater-LEB/assets/121296120/451acf49-e1fa-4a93-a9d0-20e997a0897f)
-
-Total Playtime spent on world:
-around 3 days spent
-(Exact time cant be given because the statistics file was deleted.)
