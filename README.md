@@ -9,6 +9,7 @@
 ### - Some Secrets, Credits Room and a Music Disc Room
 ### - Small waterfall and a Showdown area
 ### - Optimized in file size (Trimmmed and removed the ground layer.)
+### - Downloads for 3 world sizes Java + Bedrock located in the releases
 
 # CREDITS | MOST CONTRIBUTED TO LEAST CONTRIBUTED
 ### Icement - Project Leader, Lead Builder, Decorator and Optimizer
